@@ -14,7 +14,7 @@ export function Siderbar() {
                 <a href="#">
                     <PencilSimpleLine size={28} />
                     Editar seu perfil
-                </a>
+               </a>
             </footer>
         </aside>
 
