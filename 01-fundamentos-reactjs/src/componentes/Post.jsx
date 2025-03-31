@@ -27,11 +27,14 @@ export function Post() {
             </div>
 
             <form className={styles.commentForm}>
-                <strong>Deixe seu feddback</strong>
+                    <strong>Deixe seu feddback</strong>
 
-                <textarea placeholder='Deixe um comentário'/>
-                <button type='submit'>Comentar</button>/>
+                    <textarea placeholder='Deixe um comentário'/>
+                <footer>
+                    <button type='submit'>Comentar</button>
+                </footer>
             </form>
+
 
         </article>
     );
